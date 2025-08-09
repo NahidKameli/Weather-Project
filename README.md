@@ -55,6 +55,3 @@ To use the API:
 1. Sign up for an API key from [OpenWeatherMap](https://openweathermap.org/api) or your chosen provider.
 2. Create a `.env` file in the root directory and add your API key:
    ```env
-<<<<<<< HEAD
-   VITE_API_KEY=your-api-key-here
-======
