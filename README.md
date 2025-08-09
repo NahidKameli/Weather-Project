@@ -57,6 +57,4 @@ To use the API:
    ```env
 <<<<<<< HEAD
    VITE_API_KEY=your-api-key-here
-=======
-   VITE_API_KEY=your-api-key-here
->>>>>>> 66cc3fed7a9048d501dd17af0c3ae62d28db95c2
+======
