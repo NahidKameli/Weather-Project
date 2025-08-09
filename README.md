@@ -37,6 +37,14 @@ Weather Project is a React-based web application designed to help users check cu
 - **Git & GitHub**: Version control and repository hosting.
 - **Vite** (optional): If used for fast development and bundling.
 
+## Screenshots
+Explore the Pastry Project through these snapshots:
+| Forecast View |
+|----------|
+
+| <img src="./screenshots/screenshot1.png" alt="Homepage" width="300"/>|
+
+
 ## API Integration
 This project uses a weather API (e.g., [OpenWeatherMap API](https://openweathermap.org/)) to fetch real-time weather data, including:
 - Current temperature and weather conditions.
